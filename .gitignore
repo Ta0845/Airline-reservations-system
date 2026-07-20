@@ -1,0 +1,5 @@
+# Local toolchain and build outputs
+.tools/
+target/
+.idea/
+.vscode/
